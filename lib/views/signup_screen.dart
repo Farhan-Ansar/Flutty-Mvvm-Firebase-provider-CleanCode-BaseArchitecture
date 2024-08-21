@@ -46,7 +46,7 @@ class _SignUpState extends State<SignUp> {
                   'Sign Up',
                   style: kStyleBlack32600,
                 ),
-                16.verticalSpace,
+                18.verticalSpace,
                 Text(
                   'Welcome to Duseca Software',
                   style: kStyleGrey14400,
